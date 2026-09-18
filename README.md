@@ -9,7 +9,7 @@ Analysis of 150,000+ real CFPB consumer complaints to monitor credit card compla
 4. Resolution quality breakdown by issuer
 
 ## Report
-View the full analysis report (charts + findings, no code): [cfpb_analysis.html](reports/cfpb_analysis.html)
+[View full analysis with charts](https://nbviewer.org/github/yfi0/cfpb-credit-card-complaints/blob/main/notebooks/cfpb_analysis.ipynb) — rendered via nbviewer (no code, charts visible without running anything)
 
 ## Tools
 Python · pandas · matplotlib · seaborn · plotly · Jupyter

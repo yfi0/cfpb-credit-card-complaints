@@ -8,6 +8,9 @@ Analysis of 150,000+ real CFPB consumer complaints to monitor credit card compla
 3. State heatmap — complaints per 100k population
 4. Resolution quality breakdown by issuer
 
+## Report
+View the full analysis report (charts + findings, no code): [cfpb_analysis.html](reports/cfpb_analysis.html)
+
 ## Tools
 Python · pandas · matplotlib · seaborn · plotly · Jupyter
 
